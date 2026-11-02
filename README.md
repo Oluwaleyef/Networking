@@ -1,2 +1,2 @@
 # Networking
-Networking related labs and projects
+This repo contains networking related labs and projects.
